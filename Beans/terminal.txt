@@ -1,0 +1,8 @@
+pip install 
+pip install tk/
+pip install cvzone/
+pip install pynput/
+pip install pydirectinput/
+pip install pillow/
+pip install mediapipe/
+pip install conda install -c conda-forge mediapipe*
